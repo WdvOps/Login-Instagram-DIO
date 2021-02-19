@@ -48,6 +48,7 @@ body {
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
+    
 }
 
 .group {
@@ -89,20 +90,29 @@ body {
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+    text-decoration: none;
 }
 .instagram-logout {
     color: #3b5998;
     margin-top: 0.5rem;
+    text-decoration: none;
 }
 
 /* Not Account */
 .not-account {
     color: rgb(160, 160, 160);
     margin-bottom: 0.6rem;
+    text-decoration: none;
+    
+}
+.not-account a{
+    text-decoration: none;
 }
 
 .link-blue {
     color: #3b5998;
+    text-decoration: none;
+    
 }
 
 /* Download */
@@ -129,10 +139,10 @@ body {
     background-size: cover;
 }
 .app-download:nth-child(1) {
-    background-image: url('/assets/images/applestore.png');
+    background-image: url('/Login-Instagram-DIO/InstaGram/assets/images/applestore.png');
 }
 .app-download:nth-child(2) {
-    background-image: url('/assets/images/googlestore.png');
+    background-image: url('/Login-Instagram-DIO/InstaGram/assets/images/googlestore.png');
 }
 
 
@@ -149,11 +159,10 @@ body {
         width: 90%;
     }
 }
-    .instagram-phone {
+    .instagram-phone{
         display: none;
     }
 
     .instagram-continue {
         width: 100%;
     }
-
