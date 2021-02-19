@@ -157,7 +157,7 @@ body {
 @media (max-width: 650px) {
     .instagram-wrapper {
         width: 90%;
-    }
+    
 }
     .instagram-phone{
         display: none;
@@ -166,3 +166,4 @@ body {
     .instagram-continue {
         width: 100%;
     }
+}    
