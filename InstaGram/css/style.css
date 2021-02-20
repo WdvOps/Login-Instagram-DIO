@@ -139,10 +139,10 @@ body {
     background-size: cover;
 }
 .app-download:nth-child(1) {
-    background-image: url('/Login-Instagram-DIO/InstaGram/assets/images/applestore.png');
+    background-image: url('/InstaGram/assets/images/applestore.png');
 }
 .app-download:nth-child(2) {
-    background-image: url('/Login-Instagram-DIO/InstaGram/assets/images/googlestore.png');
+    background-image: url('/InstaGram/assets/images/googlestore.png');
 }
 
 
